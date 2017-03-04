@@ -1,0 +1,98 @@
+@font-face {
+font-family: gotham_xlight;
+src: url(https://dl.dropbox.com/s/60iomqnxoe85tm4/Gotham-XLight.otf);
+}
+
+
+.email-background {
+	max-width: 100%;
+	background-color: white;
+	text-align: center;
+	max-width: 1000;
+	
+}
+
+.email-preheader {
+	color: #ffffff;
+	font-size: 5px;
+}
+
+.email-container{
+
+	max-width: 800;
+	background: white;
+	margin: 0 auto;
+	overflow: hidden;
+	border-radius: 5px;
+	font-family: gotham;
+	font-size: 16px;
+	display: inline-block;
+	text-align: center;
+}
+
+hr {
+	max-width: 500px;
+	text-align: center;
+	margin: 40px auto;
+	box-shadow: 5px 3px 5px #444;
+	
+}
+
+.head {
+	font-family: gotham_xlight;
+	color: #767070;
+	font-size: 20px;
+	display: inline-block;
+	text-align: center;
+	margin: 30px auto;
+	
+}
+
+.text {
+	font-family: gotham_xlight;
+	color: #767070;
+	font-size: 16;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	max-width: 600px;
+	text-align: center;
+	display: inline-block;
+}
+	
+
+img {
+	max-width: 100%;
+	image-orientation: center;
+}
+
+
+
+
+.Button1 {
+	margin-bottom: 70px;
+	margin-top: 50px;
+	text-align: center;
+	}
+	
+	.Button1 a {
+	font-family: gotham_xlight;
+	border: none;
+	font-size: 16px;
+	color: white;
+	background-color: #f71a1a;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	padding: 14px 40px;
+	border-radius: 8px;
+	margin: 4px 2px;
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s; transition-duration:0.4s;
+	
+}
+    .Button1 a:hover {
+    	background-color: #FFFFFF;
+    	color: #f71a1a;
+    	border: 1px solid #f71a1a;
+    	
+    }
